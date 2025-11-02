@@ -1,0 +1,7 @@
+{
+  "name": "Time-Travel Photo Booth",
+  "description": "Take your photo and insert your face into various historical scenes using the power of Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
